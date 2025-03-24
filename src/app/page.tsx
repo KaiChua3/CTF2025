@@ -2,7 +2,7 @@
 
 import Auth from './Auth';
 import React, { useEffect, useState } from 'react';
-import { supabase } from 'C:/Users/chuaz/ctf-blushacks-2025/src/app/supabaseclient';
+import { supabase } from './supabaseclient';
 
 export default function Home() {
 
